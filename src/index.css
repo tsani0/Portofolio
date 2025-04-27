@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-[#030e21];
+    @apply overflow-x-hidden;
+}
+
+@layer utilities {
+    .text-gradient {
+      background-clip: text;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      color: transparent;
+    }
+  }
+
+  .typeit-text .ti-cursor {
+    color: #FF6347; /* Warna cursornya */
+  }
+  
