@@ -30,7 +30,7 @@ export default function Sertif() {
                 dateClassName='text-white' 
                 date='26 November 2023' 
                 icon={<TbCircleNumber1/>}>
-                    <img src="/images/aws.png" alt="Aws" className='rounded-md'/>
+                    <img src="images/aws.png" alt="Aws" className='rounded-md'/>
                     <br />
                     <h3 className='bg-gradient-purple text-gradient'>AWS Girl's Tech day</h3>
                     <p>Suatu kegiatan yang dikhususkan pada para pelajar perempuan untuk menggerakan robot lewat codingan</p>
@@ -52,7 +52,7 @@ export default function Sertif() {
                 }}
                 dateClassName='text-white' 
                 date='26 Mei 2024'>
-                    <img src="/images/bmc.png" alt="Sertifikat BMC" className='rounded-md'/>
+                    <img src="images/bmc.png" alt="Sertifikat BMC" className='rounded-md'/>
                     <h3>Wection 2024</h3>
                     <p>Kompetisi dalam bidang business yang mengharuskan para pesertanya untuk mencari solusi bisnis terbaik dari tema yang diberikan</p>
                 </VerticalTimelineElement>
@@ -73,7 +73,7 @@ export default function Sertif() {
                 }}
                 dateClassName='text-white' 
                 date='30-31 Juli 2024'>
-                    <img src="/images/dataanalitic.png" alt="data analitic" className='rounded-md'/>
+                    <img src="images/dataanalitic.png" alt="data analitic" className='rounded-md'/>
                     <h3>Pelatihan Data Analytics</h3>
                     <p>Kegiatan pelatihan data Analitik yang mengharuskan peserta emmahami dengan baik materi yang diajarkan dan akan diberikan sebuah tes di akhir pembelajaran</p>
                 </VerticalTimelineElement>
@@ -94,7 +94,7 @@ export default function Sertif() {
                   }}
                 dateClassName='text-white' 
                 date='30 September 2024'>
-                    <img src="/images/iitc.png" alt="IITC" className='rounded-md'/>
+                    <img src="images/iitc.png" alt="IITC" className='rounded-md'/>
                     <h3>Intermedia Information Technology Competition</h3>
                     <p>Kompetisi design web yang mengharuskan peserta untuk membuat tampilan website yang menarik, responsif dan user-friendly</p>
                 </VerticalTimelineElement>
