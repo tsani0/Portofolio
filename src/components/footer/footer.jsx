@@ -10,7 +10,7 @@ const footer = () => {
                 <h2 className='text-lg font-bold mb-4'>Business Inquiries</h2>
                 <div className='flex gap-2'>
                     <MdOutlineMarkEmailUnread />
-                    <p>hsnTsaniyah@gmail.com</p>
+                    <p>hsntsaniyah@gmail.com</p>
                 </div>
                 <div className='flex gap-2'>
                     <CiLocationOn />
@@ -25,9 +25,9 @@ const footer = () => {
             </div>
             <div>
                 <h2 className='text-lg font-bold mb-4 mt-6'>Contact Me</h2>
-                <div className='flex'>
-                    <FaInstagram />
-                    <FaWhatsapp />
+                <div className='flex mb-5'>
+                    <a href="https://www.instagram.com/hsntsani?igsh=MWF2dTM4am93eHRtYg==" target="_blank" rel="noopener noreferrer "><FaInstagram className='size-8' /></a>
+                    <a href='https://wa.me/6283822605885' target="_blank" rel="noopener noreferrer"><FaWhatsapp className='size-8 '/></a>
                 </div>
             </div>
             
