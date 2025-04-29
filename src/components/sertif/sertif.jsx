@@ -115,6 +115,7 @@ export default function Sertif() {
                 }}
                 dateClassName='text-white' 
                 date='30 November 2024'>
+                    <img src="/images/junior.png" alt="junior office" />
                     <h3>Training Junior Office Operator</h3>
                     <p>Kegiatan pelatihan terkait junior office operator</p>
                 </VerticalTimelineElement>
