@@ -34,8 +34,8 @@ const HeroText = () => {
         </p>
 
         <div className='flex text-white  gap-6 lg:text-4xl sm:text-2xl md:justify-normal sm:justify-center'>
-          <a href='https://www.instagram.com/hsntsani?igsh=MWF2dTM4am93eHRtYg==' target="_blank" rel="noopener noreferrer">
-            <FaInstagram />
+          <a href='https://www.instagram.com/hsntsani?igsh=MWF2dTM4am93eHRtYg==' target="_blank" rel="noopener noreferrer ">
+            <FaInstagram  />
           </a>
           <a href='https://wa.me/6283822605885' target="_blank" rel="noopener noreferrer">
             <FaWhatsapp/>

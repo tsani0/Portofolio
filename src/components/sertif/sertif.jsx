@@ -7,6 +7,8 @@ import { TbCircleNumber4 } from "react-icons/tb";
 import { TbCircleNumber5 } from "react-icons/tb";
 import { TbCircleNumber6 } from "react-icons/tb";
 import { TbCircleNumber7 } from "react-icons/tb";
+
+
 export default function Sertif() {
 
     return (
@@ -115,6 +117,7 @@ export default function Sertif() {
                 }}
                 dateClassName='text-white' 
                 date='30 November 2024'>
+                    <img src="/images/junior.png" alt="" className='rounded-md'/>
                     <h3>Training Junior Office Operator</h3>
                     <p>Kegiatan pelatihan terkait junior office operator</p>
                 </VerticalTimelineElement>
