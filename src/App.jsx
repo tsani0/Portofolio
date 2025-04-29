@@ -6,6 +6,7 @@ import SubHeroSection from './components/heroSection/SubHeroSection'
 import ProjectMain from './components/project/ProjectMain'
 import Navbarmain from './components/navbar/navbarmain'
 import Sertif from './components/sertif/sertif'
+import Footer from './components/footer/footer'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <HeroMain />
       <ProjectMain />
       <Sertif />
+      <Footer />
     </main>
   )
 }
